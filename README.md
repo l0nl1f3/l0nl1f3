@@ -3,6 +3,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=l0nl1f3)
 
 <!--START_SECTION:waka-->
+```text
+TeX   1 hr 50 mins    █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
