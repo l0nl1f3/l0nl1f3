@@ -4,8 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++        1 hr 10 mins    ████████████████████████▓   98.30 % 
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Python   2 mins          ████████████████████░░░░░   80.49 % 
 ```
 <!--END_SECTION:waka-->
 
