@@ -4,8 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++        27 mins         ███████████████████▒░░░░░   76.70 % 
-Markdown   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.02 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
