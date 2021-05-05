@@ -4,8 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-VimL   9 mins          ████████████▓░░░░░░░░░░░░   50.31 % 
-C++    9 mins          ████████████▒░░░░░░░░░░░░   49.69 % 
+
 ```
 <!--END_SECTION:waka-->
 
