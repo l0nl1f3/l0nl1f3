@@ -4,7 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Text    14 mins         ██████████▒░░░░░░░░░░░░░░   40.96 % 
+C++     14 mins         ██████████░░░░░░░░░░░░░░░   40.55 % 
+Other   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.49 % 
 ```
 <!--END_SECTION:waka-->
 
