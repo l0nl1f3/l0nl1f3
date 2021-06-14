@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++    52 mins         ████████████████████████▓   98.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
