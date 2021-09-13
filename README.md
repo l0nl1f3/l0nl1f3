@@ -4,7 +4,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+INI      6 mins          ████████████████░░░░░░░░░   63.74 % 
+Python   3 mins          █████████░░░░░░░░░░░░░░░░   36.26 % 
 ```
 <!--END_SECTION:waka-->
 
