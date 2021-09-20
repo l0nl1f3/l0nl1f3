@@ -1,6 +1,5 @@
 ### Hi chouti here 👋
 
-![](https://github-readme-stats.vercel.app/api?username=l0nl1f3)
 
 <!--START_SECTION:waka-->
 ```text
