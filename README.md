@@ -3,8 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++      37 mins         ███████████████████████▒░   92.93 % 
-Python   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
