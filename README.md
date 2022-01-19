@@ -3,9 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Debian Sourcelist   4 mins          ███████████▒░░░░░░░░░░░░░   45.02 % 
-INI                 2 mins          ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Bash                2 mins          ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+Debian Sourcelist   4 mins          ██████████████▓░░░░░░░░░░   59.29 % 
+Bash                2 mins          █████████░░░░░░░░░░░░░░░░   36.01 % 
 ```
 <!--END_SECTION:waka-->
 
