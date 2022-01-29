@@ -3,7 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 6 mins     █████████████████████████   100.00 % 
+C++        2 hrs 48 mins   ███████████████████████▒░   93.96 % 
+Makefile   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 <!--END_SECTION:waka-->
 
