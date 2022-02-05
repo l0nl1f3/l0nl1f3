@@ -3,8 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++        2 hrs 48 mins   ███████████████████████▒░   93.96 % 
-Makefile   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
