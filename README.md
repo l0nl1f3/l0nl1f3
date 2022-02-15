@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash     5 mins          ████████████████████████░   95.80 % 
+
 ```
 <!--END_SECTION:waka-->
 
