@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin   14 mins         ████████████████▒░░░░░░░░   65.08 %
-Other    5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
